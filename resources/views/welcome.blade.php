@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel 7</div>
+                <div class="title">Laravel 70</div>
             </div>
         </div>
     </body>
